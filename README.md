@@ -10,7 +10,7 @@ Send data to ThingSpeak from a Windows PowerShell Script
 * Copy and save the ThingSpeak Write API Key and enter it into the PowerShell Script
 
 ## freespace.ps1
-When this script executes, _freespace.ps1_ will report the free space of the disk drive to a ThingSpeak Channel.
+When this script executes, _[freespace.ps1](/freespace.ps1)_ will report the free space of the disk drive to a ThingSpeak Channel.
 
 ### Script Notes:
 
