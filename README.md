@@ -5,7 +5,7 @@ Send data to ThingSpeak from a Windows PowerShell Script
 [ThingSpeak](https://thingspeak.com) is an open source **Internet of Things** application and API to store and retrieve data from anything using HTTP over the Internet or via a Local Area Network.
 
 ### Sign Up for ThingSpeak
-* Sign Up for New User Account - [https://thingspeak.com/users/sign_up](https://thingspeak.com/users/sign_up)
+* Sign Up for New User Account - [https://thingspeak.com/login](https://thingspeak.com/login)
 * Create a new Channel by selecting _Channels_, _My Channels_, and then _New Channel_
 * Copy and save the ThingSpeak Write API Key and enter it into the PowerShell Script
 
